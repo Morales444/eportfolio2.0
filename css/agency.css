@@ -11,9 +11,9 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #fed136; } /* iujomkl,;fevojnkjbjjnojononnkokknknljbjbbbubonkklnIJNLKKM;M;MKNLKMLMMMLHKJBCDS*/
   a:hover {
-    color: #fec503; }
+    color: #fec503;  }
 .resume {
   color: white;
   text-decoration: none;
@@ -21,6 +21,13 @@ a {
   .resume:hover {
     color: rgb(227, 226, 224);
     text-decoration: none;
+  }
+
+a.icon {
+  color: black;
+  text-decoration: none;
+} a.icon:hover {
+  color: #fec503; 
   }
 
 .text-primary {
@@ -101,6 +108,10 @@ img::selection {
 
 img::-moz-selection {
   background: transparent; }
+
+img.logo {
+  width: 10%;
+}
 
 body {
   -webkit-tap-highlight-color: #fed136; }
